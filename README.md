@@ -13,8 +13,7 @@ Deliverables:
 - protect selected routes with token-based authentication in an Express app
 - handle user files in an Express app
 
-Here is the link to FRONT END APP:
-git clone https://github.com/OpenClassrooms-Student-Center/5614116-front-end-app.git frontend
+
 
 To run the frontend app (Angular):
 first running  npm install , 
